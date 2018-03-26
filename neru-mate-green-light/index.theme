@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=neru-classic-light
-Comment=Neru icons for light theme
+Name=neru-mate-green-light
+Comment=Neru icons for mate theme green light
 Comment[ru]=Стандартный набор значков для светлых тем.
 Inherits=breeze,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor
 
