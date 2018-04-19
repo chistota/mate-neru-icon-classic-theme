@@ -22,13 +22,13 @@ neru-icon-classic-theme
 ## Особенности
 
 * Более 3000 иконок
-* Подходит для разных окружений KDE4, KDE5 Plasma, Xfce, Gnome, LXQT, Mate и т.д.
+* Создано для Mate, возможно подходит и для разных окружений KDE4, KDE5 Plasma, Xfce, Gnome, LXQT, и т.д.
 * Для тёмных и светлых тем
 
 ## Features
 
 * More than 3000 icons
-* Suitable for different environments KDE4, KDE5 Plasma, Xfce, Gnome, LXQT, Mate, etc.
+* Created for Mate, possibly suitable for different environments KDE4, KDE5 Plasma, Xfce, Gnome, LXQT, etc.
 * For dark and light themes
 
 ## Установка / Installation
