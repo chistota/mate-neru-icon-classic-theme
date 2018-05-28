@@ -1,8 +1,8 @@
 neru-icon-classic-theme
 =========================
 
-* Классическая тема иконок Неру MATE для РОСA. Версия 1.5
-* Classic theme icons Neru MATE for ROSA. Version 1.5
+* Классическая тема иконок Неру MATE для РОСA. Версия 1.5.1
+* Classic theme icons Neru MATE for ROSA. Version 1.5.1
 
 ## Изображение / Image
 
@@ -10,8 +10,7 @@ neru-icon-classic-theme
 
 ## Изменения
 
-* Добавленно несколько иконок
-* Исправлены ошибки
+* Добавленно несколько иконок для LXQT
 
 
 ## Change
